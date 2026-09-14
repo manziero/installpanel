@@ -1031,8 +1031,8 @@ clear 2>/dev/null || true
 
 echo
 echo "============================================================"
-echo "              PTERODACTYL AUTO INSTALLER"
-echo "                    RELEASE v1.3.0"
+echo "              PTERODACTYL AUTO INSTALLER LUXXY ASTRA"
+echo "                    LXST v1"
 echo "============================================================"
 echo
 echo "[1] Install Panel saja"
