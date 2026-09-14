@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ============================================================
-# PTERODACTYL AUTO INSTALLER
+# PTERODACTYL AUTO INSTALLER LUXXYASTRA
 # RELEASE: v1.3.0
 #
 # MODE:
@@ -1568,7 +1568,8 @@ expect {
         puts stderr "[ERROR] Email Let's Encrypt kosong."
         exit 2
     }
-    send -- "$email"
+    send -- "$email
+"
     exp_continue
 }
 
